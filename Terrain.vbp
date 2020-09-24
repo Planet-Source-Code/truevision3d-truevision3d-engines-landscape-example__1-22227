@@ -1,0 +1,36 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\WINDOWS\SYSTEM\stdole2.tlb#OLE Automation
+Reference=*\G{E1211242-8E94-11D1-8808-00C04FC2C603}#1.0#0#..\..\WINDOWS\SYSTEM\dx8vb.dll#DirectX 8 for Visual Basic Type Library
+Reference=*\G{A5F8CDB2-0E2C-40E7-8B27-A47A923B55B2}#1.0#0#..\..\MY DOWNLOADS\LATESTENGINE\TV8\TRUEVISION8.DLL#TrueVision8 3D v3.3 engine for Visual Basic
+Form=terrainfrm.frm
+Startup="Form1"
+HelpFile=""
+ExeName32="cloud.exe"
+Command32=""
+Name="Projet1"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="xx"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
